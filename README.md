@@ -56,4 +56,4 @@ The project will cover:
 Fernando Edgar Challapa Blaz
 QA Engineer | Manual Testing | API Testing | Playwright Automation  
 Location: Cochabamba, Bolivia  
-LinkedIn: [Add your LinkedIn URL]
+LinkedIn: www.linkedin.com/in/fernando-ecb
